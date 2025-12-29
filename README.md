@@ -41,7 +41,7 @@ Transforming Ideas into Interactive Experiences
 <br />
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-jamnani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-jamnani-7125ab2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mraj.pvt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/ashish-jamnani)
 
@@ -74,19 +74,3 @@ Transforming Ideas into Interactive Experiences
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ashish-jamnani&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-jamnani&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-jamnani&theme=dark&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ashish-jamnani&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
-<h3 align="center">
-Together, let's build amazing frontend experiences and make the web better 🌍
-</h3>
