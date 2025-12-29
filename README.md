@@ -1,31 +1,92 @@
-<h1 align="center">Hi 👋, I'm Ashish Jamnani</h1>
-<h3 align="center">Frontend Web Developer | Graphic Designer | Transforming Ideas into Interactive Experiences |</h3>
+<h1> 🌟 Hello World! I'm Ashish Jamnani 👋  
+  <a href="https://www.linkedin.com/in/ashish-jamnani" target="blank">
+    <img src="https://img.shields.io/badge/Ashish%20Jamnani-fffff" alt="Ashish Jamnani" />
+  </a> 
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-jamnani" alt="ashish-jamnani" /></a> </p>
+<h3>
+Frontend Web Developer | React & React Native Enthusiast | 
+Transforming Ideas into Interactive Experiences
+</h3>
 
-- 🔭 I’m currently working on **Price compering website**
+<br />
 
-- 💬 Ask me about **Frontend technologies, React basics, and UI/UX concepts**
+## 🛠️ What I’m Excited About:
+- **✨ Frontend Development**: Creating clean, responsive, and modern user interfaces.
+- **🚀 Modern Technologies**: React.js, Next.js, React Native, Tailwind CSS.
+- **🌐 User Experience**: Building smooth, interactive, and user-friendly web apps.
+- **🎨 UI & Design**: Turning designs into pixel-perfect code.
 
-- 👯 I’m looking to collaborate on **Frontend / UI Projects /**
+<br />
 
-- 🌱 I’m currently learning **Modern frontend development with HTML, CSS, JavaScript, React.js, React Native, and responsive UI design**
+## 🌱 Currently Learning
+- **React Native**
+- **Advanced React & Next.js**
+- **Modern Frontend Languages (HTML, CSS, JavaScript)**
+- **UI/UX & Performance Optimization**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+<br />
 
-- 📫 How to reach me **jamnaniashish2005@gmail.com**
+## 💬 Ask Me About
+- Frontend Development  
+- React.js & React Native  
+- Responsive UI Design  
+- Modern Web Technologies  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kGW6ObZRe7fSLhy2fx8YAL9ZmOAyUC1L/view?usp=sharing](https://drive.google.com/file/d/1kGW6ObZRe7fSLhy2fx8YAL9ZmOAyUC1L/view?usp=sharing)
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish jamnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish jamnani" height="30" width="40" /></a>
-<a href="https://fb.com/ashish jamnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish jamnani" height="30" width="40" /></a>
-<a href="https://instagram.com/mraj.pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mraj.pvt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashish jamnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashish jamnani" height="30" width="40" /></a>
-</p>
+## 📫 How to Reach Me:
+📧 Email: [jamnaniashish2005@gmail.com](mailto:jamnaniashish2005@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-jamnani&show_icons=true&locale=en&layout=compact" alt="ashish-jamnani" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-jamnani)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mraj.pvt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/ashish-jamnani)
+
+---
+
+# 💻 Tech Stack
+
+### 🧑‍💻 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Tools
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ashish-jamnani&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-jamnani&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-jamnani&theme=dark&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ashish-jamnani&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+<h3 align="center">
+Together, let's build amazing frontend experiences and make the web better 🌍
+</h3>
