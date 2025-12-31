@@ -29,7 +29,7 @@ Transforming Ideas into Interactive Experiences
 
 ## 💬 Ask Me About
 - Frontend Development  
-- React.js & React Native  
+- HTML/CSS more... 
 - Responsive UI Design  
 - Modern Web Technologies  
 
